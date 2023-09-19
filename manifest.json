@@ -13,22 +13,22 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "icon-192x192.png",
+      "src": "icones/196.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "196x196"
     },
     {
-      "src": "icon-256x256.png",
+      "src": "icones/216.png",
+      "type": "image/png",
+      "sizes": "216x216"
+    },
+    {
+      "src": "icones/256.png",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "icon-384x384.png",
-      "type": "image/png",
-      "sizes": "384x384"
-    },
-    {
-      "src": "icon.png",
+      "src": "icones/512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
