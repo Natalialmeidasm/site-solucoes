@@ -1,0 +1,38 @@
+{
+  "background_color": "#664a4a",
+  "description": "Soluções para elevadores condominiais",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "solucoeselevadores.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "solucoeselevadores.netlify",
+  "start_url": "/index.html",
+  "theme_color": "#5a4747",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [],
+  "id": "Elev"
+}
